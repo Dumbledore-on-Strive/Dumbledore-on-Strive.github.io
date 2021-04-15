@@ -17,6 +17,8 @@ During the first build week on Strive School, our task is to work as a team and 
 
 All instructions were posted on [Notion.](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
 
+Check out our presentation on [Google Drive!](https://docs.google.com/presentation/d/1OvX6wftm77rGV6PJwV4PumvSysB1p6ay0UairEZE89M/edit#slide=id.g65abef0139_0_892)
+
 <p>&nbsp;</p>
 
 ## The Team 
@@ -37,7 +39,7 @@ Create your own database with the scraped information from [goodreads.com](https
 
 * [Web Scraping & Analysis](https://www.notion.so/Web-Scraping-Analysis-6c2e9f1388064c8ab9e42fdf80a237db)
 
-Data to be scrape. 
+Data to be scraped:
 
     * url - str
     * title - str
@@ -54,9 +56,26 @@ Data to be scrape.
 
 * [Data Visualization](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
 
+Data to be visualized:
 
+    * scatterplot showing the correlation between the number of pages and the number of ratings
+    * average rating distribution
+    * ratings wrt the years
+    * minmax normalized rating distribution
+    * mean normalized rating distribution
+    * both the minmax normalized rating distribution and mean normalized rating distribution together
+    * awards distribution
+    * minmax normalized rating distribution in function of the number of awards won by the book
+
+Data to be calculated:
+
+    * correlation coefficient of the num_pages and num_ratings columns
+    * best fit for distribution graphs(normal, chi-squared etc) using Scipy-Stats
+    * the probability that a book that is part of a series has won an award using the Bayes Theorem
+    
 * [Optimize your code ](https://www.notion.so/Optimize-your-code-3817259c56f3467696cdf28af734275c)
 
+For this part the team spent time editing the code to make it more efficient, fast and pythonic, as well as transforming the Dataframes and Visualisations into a website using Streamlit.
 
 * [Publish](https://www.notion.so/Publish-98a388d301ff490fa0fcda40deef3a3b)
 

@@ -17,12 +17,11 @@ During the first build week on Strive School, our task is to work as a team and 
 
 All instructions were posted on [Notion.](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
 
-Check out our presentation on [Google Drive!](https://docs.google.com/presentation/d/1OvX6wftm77rGV6PJwV4PumvSysB1p6ay0UairEZE89M/edit#slide=id.g65abef0139_0_892)
-
+Check out our presentation on [Google Drive!](https://docs.google.com/presentation/d/1iQ-gyhHxwDRoJAeOyrHYcgPsisamqPO92RU8n9Fr9Dc/edit#slide=id.gd265604c1e_1_2)
 <p>&nbsp;</p>
 
 ## The Team 
-#
+
 * [Agathyia Raja](https://github.com/AgathiyaRaja)
 * [Camelia Ignat](https://github.com/avocami)
 * [Fabio Fistarol](https://github.com/fistadev)

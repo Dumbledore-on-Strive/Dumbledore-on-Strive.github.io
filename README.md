@@ -69,7 +69,7 @@ Check out our presentation on [Google Drive!](https://docs.google.com/presentati
 
 - [Web Scraping & Analysis](https://www.notion.so/Web-Scraping-Analysis-6c2e9f1388064c8ab9e42fdf80a237db)
 
-Data to be scraped:
+Data scraped:
 
     * url - str
     * title - str
@@ -88,7 +88,7 @@ Data to be scraped:
 
 - [Data Visualization](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
 
-Data to be visualized:
+Data visualisation:
 
     * scatterplot showing the correlation between the number of pages and the number of ratings
     * average rating distribution
@@ -109,11 +109,20 @@ Data to be calculated:
 
 - [Code optimization ](https://www.notion.so/Optimize-your-code-3817259c56f3467696cdf28af734275c)
 
-For this part the team spent time editing the code to make it more efficient, fast and pythonic, as well as transforming the Dataframes and Visualisations into a website using Streamlit.
+Optimization:
+
+    * For this task the team spent time editing the code to make it more efficient, fast and pythonic, as well as transforming the Dataframes and Visualisations into a website using Streamlit.
 
 <p>&nbsp;</p>
 
 - [Publish](https://www.notion.so/Publish-98a388d301ff490fa0fcda40deef3a3b)
+
+Services:
+
+    * Front end: Our team decided to use Streamlit
+    * Version Control: GitHub
+    * Server: Hehoku
+    * Devops: Hehoku
 
 <p>&nbsp;</p>
 

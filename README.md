@@ -84,6 +84,8 @@ Data to be scraped:
     * awards - str
     * places str
 
+<p>&nbsp;</p>
+
 - [Data Visualization](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
 
 Data to be visualized:
@@ -103,14 +105,22 @@ Data to be calculated:
     * best fit for distribution graphs(normal, chi-squared etc) using Scipy-Stats
     * the probability that a book that is part of a series has won an award using the Bayes Theorem
 
-- [Optimize your code ](https://www.notion.so/Optimize-your-code-3817259c56f3467696cdf28af734275c)
+<p>&nbsp;</p>
+
+- [Code optimization ](https://www.notion.so/Optimize-your-code-3817259c56f3467696cdf28af734275c)
 
 For this part the team spent time editing the code to make it more efficient, fast and pythonic, as well as transforming the Dataframes and Visualisations into a website using Streamlit.
 
+<p>&nbsp;</p>
+
 - [Publish](https://www.notion.so/Publish-98a388d301ff490fa0fcda40deef3a3b)
+
+<p>&nbsp;</p>
 
 - [Present](https://www.notion.so/Present-641432ba3db74b47b063d8b7b0a93e03)
 
-### See it live
+<p>&nbsp;</p>
+
+### You can see this page live
 
 [Go here](https://dumbledore-on-strive.github.io/)

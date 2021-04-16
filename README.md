@@ -53,17 +53,17 @@ If you need extra help with Streamlit, got to the [documentation](https://docs.s
 
 <p>&nbsp;</p>
 
+## The Task
+
+Create your own database with the scraped information from [goodreads.com](https://www.goodreads.com/), to process and analyse them, also with a bit of Data Visualization and finally make the result public!
+
+<p>&nbsp;</p>
+
 During the first build week on Strive School, our task is to work as a team and to have the opportunity to put together what you have learned so far and build something for real.
 
 All instructions were posted on [Notion.](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
 
 Check out our presentation on [Google Drive!](https://docs.google.com/presentation/d/1iQ-gyhHxwDRoJAeOyrHYcgPsisamqPO92RU8n9Fr9Dc/edit#slide=id.gd265604c1e_1_2)
-
-<p>&nbsp;</p>
-
-## The Task
-
-Create your own database with the scraped information from [goodreads.com](https://www.goodreads.com/), to process and analyse them, also with a bit of Data Visualization and finally make the result public!
 
 <p>&nbsp;</p>
 

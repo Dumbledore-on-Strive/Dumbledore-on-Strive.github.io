@@ -1,6 +1,8 @@
-# Strive School Build Week 1
+### AI Engineering | Build Week 1
 
-## Goodreads Project
+# Dumbledore on Strive
+
+Enjoy the journey and you'll see the magic :sparkles:
 
 ![](https://miro.medium.com/max/1200/1*enOrjdaY-Zx9hpSKqx61Kg.jpeg)
 
@@ -8,14 +10,6 @@
 __init__
 print('Hello Boss')
 ```
-
-<p>&nbsp;</p>
-
-## AI Engineering | Build Week 1
-
-# Dumbledore on Strive
-
-Enjoy the journey and you'll see the magic :sparkles:
 
 <p>&nbsp;</p>
 
@@ -48,12 +42,6 @@ streamlit run streamlit_app.py
 
 If you need extra help with Streamlit, got to the [documentation](https://docs.streamlit.io)
 
-During the first build week on Strive School, our task is to work as a team and to have the opportunity to put together what you have learned so far and build something for real.
-
-All instructions were posted on [Notion.](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
-
-Check out our presentation on [Google Drive!](https://docs.google.com/presentation/d/1iQ-gyhHxwDRoJAeOyrHYcgPsisamqPO92RU8n9Fr9Dc/edit#slide=id.gd265604c1e_1_2)
-
 <p>&nbsp;</p>
 
 ## The Team
@@ -62,6 +50,14 @@ Check out our presentation on [Google Drive!](https://docs.google.com/presentati
 - [Camelia Ignat](https://github.com/avocami)
 - [Fabio Fistarol](https://github.com/fistadev)
 - [Nurlan Sarkhanov](https://github.com/nsarkhanov)
+
+<p>&nbsp;</p>
+
+During the first build week on Strive School, our task is to work as a team and to have the opportunity to put together what you have learned so far and build something for real.
+
+All instructions were posted on [Notion.](https://www.notion.so/Data-Visualization-e226cc8314324939a56ac84a1f457cbd)
+
+Check out our presentation on [Google Drive!](https://docs.google.com/presentation/d/1iQ-gyhHxwDRoJAeOyrHYcgPsisamqPO92RU8n9Fr9Dc/edit#slide=id.gd265604c1e_1_2)
 
 <p>&nbsp;</p>
 

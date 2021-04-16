@@ -117,7 +117,7 @@ For this part the team spent time editing the code to make it more efficient, fa
 
 <p>&nbsp;</p>
 
-- [Present](https://www.notion.so/Present-641432ba3db74b47b063d8b7b0a93e03)
+- [Presentation](https://www.notion.so/Present-641432ba3db74b47b063d8b7b0a93e03)
 
 <p>&nbsp;</p>
 

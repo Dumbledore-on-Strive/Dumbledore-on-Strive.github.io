@@ -119,7 +119,7 @@ Optimization:
 
 Services:
 
-    * Front end: Our team decided to use Streamlit
+    * Front end: Streamlit
     * Version Control: GitHub
     * Server: Hehoku
     * Devops: Hehoku

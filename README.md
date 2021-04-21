@@ -121,8 +121,8 @@ Services:
 
     * Front end: Streamlit
     * Version Control: GitHub
-    * Server: Hehoku
-    * Devops: Hehoku
+    * Server: Heroku
+    * Devops: Heroku
 
 <p>&nbsp;</p>
 

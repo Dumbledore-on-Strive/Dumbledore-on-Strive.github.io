@@ -7,8 +7,8 @@ Enjoy the journey and you'll see the magic :sparkles:
 ![](https://miro.medium.com/max/1024/1*N1k6cmyD9h99w4S-CEaKXw.png)
 
 ```python
-__init__
-print('Hello Boss')
+def __init__:
+   print('Hello Boss')
 ```
 
 <p>&nbsp;</p>
